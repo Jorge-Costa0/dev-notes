@@ -1,2 +1,2 @@
 # dev-notes
-Anotações técnicas em Markdown (programação, projetos, etc.)
+Technical notes in Markdown (programming, projects, etc.)
